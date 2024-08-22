@@ -17,7 +17,7 @@ const Review = () => {
               officia consequuntur voluptates quod exercitationem.
             </p>
             <img
-              src="../src/img/pic-1.png"
+              src="../img/pic-1.png"
               alt="foto-cliente"
               className="user"
             />
@@ -69,7 +69,7 @@ const Review = () => {
               officia consequuntur voluptates quod exercitationem.
             </p>
             <img
-              src="../src/img/pic-2.png"
+              src="../img/pic-2.png"
               alt="foto-cliente"
               className="user"
             />
@@ -109,7 +109,7 @@ const Review = () => {
           </div>
 
           <div className="box">
-            <img src="../src/img/quote-img.png" alt="comentario"></img>
+            <img src="../img/quote-img.png" alt="comentario"></img>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
               sint quidem aperiam doloremque tempore doloribus quis illo cumque!
@@ -117,7 +117,7 @@ const Review = () => {
               officia consequuntur voluptates quod exercitationem.
             </p>
             <img
-              src="../src/img/pic-3.png"
+              src="../img/pic-3.png"
               alt="foto-cliente"
               className="user"
             />
