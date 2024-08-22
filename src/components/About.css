@@ -1,0 +1,37 @@
+.title{
+    font-size: 4rem;
+    color: var(--main-color);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 4rem;
+}
+
+.title span{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.about .row{
+    display: flex;
+    align-items: center;
+    background-color: var(--black);
+    gap: 1.5rem;
+}
+
+.about .row .content{
+    padding: 2rem;
+
+}
+
+.about .row .content h3{
+    font-size: 3rem;
+    color: #Fff;
+    
+}
+
+.about .row .content p{
+    font-size: 1.6rem;
+    color:#fff;
+    padding: 1rem 0;
+    line-height: 1.8;
+}
